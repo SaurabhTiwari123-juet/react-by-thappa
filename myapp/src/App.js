@@ -3,6 +3,8 @@
 import logo from "./logo.svg";
 import "./App.css";
 
+//render means to show and it always render one element only
+// so use react fragments <></>
 function App() {
 	return (
 		<>
